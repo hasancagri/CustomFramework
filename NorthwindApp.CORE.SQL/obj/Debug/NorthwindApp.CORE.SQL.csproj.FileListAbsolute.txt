@@ -1,0 +1,8 @@
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.CORE.SQL\bin\Debug\NorthwindApp.CORE.SQL.dll
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.CORE.SQL\bin\Debug\NorthwindApp.CORE.SQL.pdb
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.CORE.SQL\bin\Debug\Dapper.dll
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.CORE.SQL\bin\Debug\Dapper.xml
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.CORE.SQL\obj\Debug\NorthwindApp.CORE.SQL.csprojResolveAssemblyReference.cache
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.CORE.SQL\obj\Debug\NorthwindApp.CORE.SQL.csproj.CoreCompileInputs.cache
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.CORE.SQL\obj\Debug\NorthwindApp.CORE.SQL.dll
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.CORE.SQL\obj\Debug\NorthwindApp.CORE.SQL.pdb

@@ -1,0 +1,6 @@
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.StoredProcedures\bin\Debug\NorthwindApp.StoredProcedures.dll
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.StoredProcedures\bin\Debug\NorthwindApp.StoredProcedures.pdb
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.StoredProcedures\obj\Debug\NorthwindApp.StoredProcedures.csproj.CoreCompileInputs.cache
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.StoredProcedures\obj\Debug\NorthwindApp.StoredProcedures.dll
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.StoredProcedures\obj\Debug\NorthwindApp.StoredProcedures.pdb
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.StoredProcedures\obj\Debug\NorthwindApp.StoredProcedures.csprojResolveAssemblyReference.cache

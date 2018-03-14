@@ -1,0 +1,5 @@
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.Values\bin\Debug\NorthwindApp.Values.dll
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.Values\bin\Debug\NorthwindApp.Values.pdb
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.Values\obj\Debug\NorthwindApp.Values.csproj.CoreCompileInputs.cache
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.Values\obj\Debug\NorthwindApp.Values.dll
+C:\Users\Çağrı\Desktop\NorthwindApp\NorthwindApp.Values\obj\Debug\NorthwindApp.Values.pdb
